@@ -4,6 +4,13 @@ This is a project for the web development curriculum found [here.](http://www.th
 
 Made with the guidance of [jumpstartlab.](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
+----------------------------------------------------------------------------------------
+UPDATE:
+I finished the project!  It can be found [here.](https://stormy-tundra-8463.herokuapp.com/)
+------------------------------------------------------------------------------------\
+----
+
+
 As something new, I will be documenting every commit I make here in the readme.  Additionally, I will be keeping a running list of things I learn in the commit documentation (similar to what I did in my first blog project).
 
 Commit #1:
