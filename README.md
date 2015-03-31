@@ -16,3 +16,11 @@ Commit #3:
 - Created the Article Database, and used rails console (irb) to create some same articles
 - Learned that you must save an article before it will be put in the database, just creating a new article isn't enough
 - Learned how relational algebra underlies databases
+
+Commit #4:
+- Fixed routes.rb so it understands that the URLs will be about articles
+- used rake routes to use Rails' REST implementation to create URLs
+- now localhost:3000/articles/ should bring us to an index
+- we got a "template is missing" error, fixed it by making the view for articles
+- learned how to name view templates appropriatley, and why the .html.erb is important
+- learned how to insert ruby code into .erb files 
