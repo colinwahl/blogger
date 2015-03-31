@@ -24,3 +24,10 @@ Commit #4:
 - we got a "template is missing" error, fixed it by making the view for articles
 - learned how to name view templates appropriatley, and why the .html.erb is important
 - learned how to insert ruby code into .erb files 
+
+Commit #5:
+- Learned about "unknown action" error and learned how to fix it
+- Learned about "missing template" error and learned how to fix it
+- Learned about params method, which returns a hash which is the article with the id specified at the end of the url (ex. localhost:3000/articles/1 - where 1 is the id)
+- Learned how to attach a .css file to style our app
+
