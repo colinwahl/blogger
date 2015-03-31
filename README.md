@@ -7,7 +7,7 @@ Made with the guidance of [jumpstartlab.](http://tutorials.jumpstartlab.com/proj
 ----------------------------------------------------------------------------------------
 UPDATE:
 I finished the project!  It can be found [here.](https://stormy-tundra-8463.herokuapp.com/)
-------------------------------------------------------------------------------------\
+-----------------------------------------------------------------------------------\
 ----
 
 
