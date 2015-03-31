@@ -57,3 +57,10 @@ Commit #9:
 - Learned how to think about database models
 - Added a tagging functionality
 - Added increased functionality to tags
+
+Commit #10:
+- Learned how to use the paperclip gem to add to our database
+- Learned how to add logic to our views
+- Learned how to do automatic image resizing with paperclip
+- Learned about SASS and how Rails' layouts help us apply the concept of DRY
+- Learned about the asset pipeline
