@@ -53,3 +53,7 @@ Commit #8:
 - Added a comment feature -- very similar to when I made the articles
 - Added more functionality to my comments -- a timing feature and a comment count feature
 
+Commit #9:
+- Learned how to think about database models
+- Added a tagging functionality
+- Added increased functionality to tags
