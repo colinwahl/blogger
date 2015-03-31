@@ -64,3 +64,12 @@ Commit #10:
 - Learned how to do automatic image resizing with paperclip
 - Learned about SASS and how Rails' layouts help us apply the concept of DRY
 - Learned about the asset pipeline
+
+Commit #11:
+- Learned about different authentication gems
+- Learned how to use the sorcery gem to authenticate my app
+- Learned how to use scaffolding to create files
+- Learned how to add users to my app
+- Learned how to secure my applications using before_filter
+- Encountered many errors and fixed them using the given error message
+- Prepared app for deployment on heroku
