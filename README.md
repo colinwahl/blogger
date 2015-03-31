@@ -47,3 +47,9 @@ Commit #7:
 - Used the default layout to add flashes when articles are created/updated/destroyed
 - Learned how to adjust the default route to my index
 - Learned about github's reset -hard functionality
+
+Commit #8:
+- Learned about one-to-one and one-to-many relationships
+- Added a comment feature -- very similar to when I made the articles
+- Added more functionality to my comments -- a timing feature and a comment count feature
+
