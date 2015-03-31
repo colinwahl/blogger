@@ -31,3 +31,11 @@ Commit #5:
 - Learned about params method, which returns a hash which is the article with the id specified at the end of the url (ex. localhost:3000/articles/1 - where 1 is the id)
 - Learned how to attach a .css file to style our app
 
+Commit #6:
+- Learned about form_for, the helper method to create a form and then set what the elements of the form change
+- Encountered and fixed ArguementError => cannot pass nil into a function
+- Learned about fragile controllers, and how to use strong parameters
+- Learned how to use rake routes to figure out what paths to use
+- Implemented a way to destroy a post
+- Learned how to redirect pages
+- Learned how to use javascript to confirm an action
