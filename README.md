@@ -39,3 +39,11 @@ Commit #6:
 - Implemented a way to destroy a post
 - Learned how to redirect pages
 - Learned how to use javascript to confirm an action
+
+Commit #7:
+- Learned about using partials to avoid repeating code (DRY)
+- Used partials to clean up my code
+- Learned what the default layout is for
+- Used the default layout to add flashes when articles are created/updated/destroyed
+- Learned how to adjust the default route to my index
+- Learned about github's reset -hard functionality
